@@ -1,24 +1,28 @@
-# DIO - Trilha .NET - API e Entity Framework
+# API e Entity Framework .NET
 www.dio.me
 
-## Desafio de projeto
-Para este desafio, você precisará usar seus conhecimentos adquiridos no módulo de API e Entity Framework, da trilha .NET da DIO.
+## Desafio de projeto 👨‍💻📝
+Conclusão com sucesso do desafio de um sistema gerenciador de tarefas em .NET com API e Entity Framework!
 
-## Contexto
-Você precisa construir um sistema gerenciador de tarefas, onde você poderá cadastrar uma lista de tarefas que permitirá organizar melhor a sua rotina.
+## Contexto 📈❎🚫
+O sistema oferece funcionalidades abrangentes de CRUD (Create, Read, Update, Delete) para tarefas, permitindo aos usuários:
 
-Essa lista de tarefas precisa ter um CRUD, ou seja, deverá permitir a você obter os registros, criar, salvar e deletar esses registros.
+- Criar novas tarefas: Inserir título, descrição, data e status para cada tarefa, definindo seus objetivos com clareza e precisão.
+- Visualizar tarefas: Obter uma visão geral de todas as tarefas cadastradas, priorizando as mais importantes e acompanhando o progresso geral.
+- Atualizar tarefas: Modificar as informações de tarefas existentes, ajustando prazos, prioridades ou qualquer outro detalhe relevante.
+- Excluir tarefas: Eliminar tarefas concluídas ou irrelevantes, liberando espaço para novas conquistas.
 
-A sua aplicação deverá ser do tipo Web API ou MVC, fique a vontade para implementar a solução que achar mais adequado.
+Para garantir a confiabilidade do sistema, foram implementadas medidas de segurança e validação de dados:
 
-A sua classe principal, a classe de tarefa, deve ser a seguinte:
+- Validação de entrada: Assegurei que apenas informações válidas e consistentes sejam armazenadas, evitando erros e inconsistências.
+- Proteção contra dados incorretos: Manter a integridade do banco de dados e a confiabilidade do sistema.
 
 ![Diagrama da classe Tarefa](diagrama.png)
 
-Não se esqueça de gerar a sua migration para atualização no banco de dados.
+Migração de banco de dados: Atualização automática do banco de dados para acompanhar as mudanças na sua aplicação
 
 ## Métodos esperados
-É esperado que você crie o seus métodos conforme a seguir:
+Foram criados os seguintes métodos:
 
 
 **Swagger**
@@ -54,5 +58,12 @@ Esse é o schema (model) de Tarefa, utilizado para passar para os métodos que e
 ```
 
 
-## Solução
-O código está pela metade, e você deverá dar continuidade obedecendo as regras descritas acima, para que no final, tenhamos um programa funcional. Procure pela palavra comentada "TODO" no código, em seguida, implemente conforme as regras acima.
+## Recursos úteis 👍
+
+- Repositório do desafio: [https://www.dio.me/]
+- Documentação do Entity Framework: [https://learn.microsoft.com/en-us/ef/]
+- Tutoriais sobre APIs REST: [https://www.freecodecamp.org/news/tag/rest-api/]
+
+## Desafio Concluído com sucesso ✅
+
+Continuarei explorando o mundo do desenvolvimento .NET e criando soluções ainda mais incríveis!
