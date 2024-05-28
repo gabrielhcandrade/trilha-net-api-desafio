@@ -60,9 +60,9 @@ Esse é o schema (model) de Tarefa, utilizado para passar para os métodos que e
 
 ## Recursos úteis 👍
 
-- Repositório do desafio: [https://www.dio.me/]
-- Documentação do Entity Framework: [https://learn.microsoft.com/en-us/ef/]
-- Tutoriais sobre APIs REST: [https://www.freecodecamp.org/news/tag/rest-api/]
+- Repositório do desafio: https://github.com/digitalinnovationone/trilha-net-api-desafio
+- Documentação do Entity Framework: https://learn.microsoft.com/en-us/ef/
+- Tutoriais sobre APIs REST: https://www.freecodecamp.org/news/tag/rest-api/
 
 ## Desafio Concluído com sucesso ✅
 
